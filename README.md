@@ -1,4 +1,4 @@
-https://github.com/Ayush92-byte/Ayush92-byte/Ayush92-byte/blob/main/Design (1).png?raw=true/Ayush92-byte/blob/main/Design (1).png?raw=true
+![DevOps Tools](https://github.com/Ayush92-byte/Ayush92-byte/blob/main/Design%20(1).png?raw=true)
 # Ayush Kushwaha's Resume
 
 ## Contact Information

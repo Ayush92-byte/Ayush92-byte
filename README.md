@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ayush Kushwaha's Resume
+
+## Contact Information
+- **Name:** Ayush Kushwaha
+- 
+## Education
+- **Institution:** Indian Institute of Information Technology, Ranchi
+- **Degree:** Bachelor of Technology in Computer Science and Engineering
+- **Duration:** 2021-2025
+- **CGPA:** 8.22
+
+## Technical Skills
+- **Languages:** C, C++, Kotlin, Python, Javascript
+- **Developer Tools:** Git, GitHub, Windows, Android SDK, Android Studio, Visual Studio Code
+- **Frameworks:** Jetpack Compose, MVVM, Coroutines, ViewModel, Retrofit
+- **Cloud/Databases:** MySQL, Room Database, Cloud Firestore
+- **Soft Skills:** Communication, teamwork, problem-solving, work ethic, adaptability
+- **Coursework:** Data Structures and Algorithms, Programming Languages (C++), OOPS, DBMS, Operating System
+- **Areas of Interest:** Mobile App Development, Building Personal Projects
 
 
-**Ayush92-byte/Ayush92-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+## Achievements
+- **Hackathon Participation:** House of Hackers (36-Hour In-person), April 2023
+- **World Record Event:** Selected to participate in a historic event where 25,000 guitarists performed simultaneously, securing a new world record. Shortlisted for inclusion in the Guinness World Records.
